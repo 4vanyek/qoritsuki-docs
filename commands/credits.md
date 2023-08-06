@@ -10,7 +10,7 @@ description: Показывает, с помощью чего и кого был
 
 ### Пример использования:
 
-\`/credits\`
+`/credits`
 
 <div align="left">
 
