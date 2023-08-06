@@ -16,7 +16,7 @@ description: Показывает последние изменения в ко�
 
 ### Пример использования:
 
-\`/changelog version: 1.1.0\`
+`/changelog version: 1.1.0`
 
 <div align="left">
 
@@ -24,7 +24,7 @@ description: Показывает последние изменения в ко�
 
 </div>
 
-\`/changelog version: latest\`
+`/changelog version: latest`
 
 <div align="left">
 
@@ -32,7 +32,7 @@ description: Показывает последние изменения в ко�
 
 </div>
 
-\`/changelog\`
+`/changelog`
 
 <div align="left">
 
