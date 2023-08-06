@@ -16,4 +16,8 @@ description: Переводит фразы с API Google Translate
 
 `/translate lang: ru message_id: 1137788563346444328`
 
-<figure><img src="../.gitbook/assets/Screenshot_20230806_194617.png" alt=""><figcaption></figcaption></figure>
+<div align="left">
+
+<figure><img src="../.gitbook/assets/Screenshot_20230806_194617.png" alt=""><figcaption><p><code>/translate</code></p></figcaption></figure>
+
+</div>
